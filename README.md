@@ -1,6 +1,6 @@
 # IQA
 
-![canteen](/s1.PNG)
+![iqa](/s1.PNG)
 
 
 ## tech stack
